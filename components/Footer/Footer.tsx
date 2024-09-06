@@ -10,13 +10,13 @@ export const Footer: FC = () => {
           <div className="mr-1 md:-mt-2 lg:mt-0"> Developed by </div>
           <div className="md:-mt-2 lg:mt-0"></div>
           <Link
-            href="https://rupalihaldiya.vercel.app/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="GitHub Profile of Rupali Haldiya"
+            aria-label="GitHub Profile of codeking"
           >
             <span className="underline mr-1 duration-300 transition-all hover:text-theme-secondary">
-              Rupali Haldiya
+              codeking
             </span>
           </Link>{' '}
           and{' '}
